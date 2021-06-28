@@ -1,0 +1,1 @@
+For using this timer just simply make an object of class Timer
